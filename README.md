@@ -30,3 +30,23 @@
   >Sem contar que temos o melhor preço do mercado!
   
   
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+  ~~~
+  
+  
+  Produto | Valor
+--------- | ------
+Camisa| R$ 69,99
+short | R$ 79,99
+boné  | R$ 49,99 
+Cueca | R$ 14,99
+  
