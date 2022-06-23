@@ -55,3 +55,7 @@ short | R$ 79,99
 boné  | R$ 49,99 
 Cueca | R$ 14,99
   
+  
+  Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+R$49,99 | R$49,99  | R$49,99 
