@@ -24,3 +24,9 @@
 
   3. _**Boné**_ 
 ![image](https://user-images.githubusercontent.com/108087723/175366312-3348fdf9-0fe9-4666-8728-ef3b6ab0123e.png)
+
+  >Estes são alguns dos produtos oferecidos pela nossa loja.
+  >Temos uma enorme variedades de produtos.
+  >Sem contar que temos o melhor preço do mercado!
+  
+  
