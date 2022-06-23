@@ -1,10 +1,10 @@
 # Aula-markdown
 # Maio formato de título de texto<h1>
-  exemplo de palavra em **negrito** 
+  Exemplo de palavra em **negrito** 
   
-  exemplo de palavra em _itálico_
+  Exemplo de palavra em _itálico_
   
-  exemplo de palavra em _**negrito e itálico**_
+  Exemplo de palavra em _**negrito e itálico**_
 ## Título <h2>
 ### Título <h3>
 #### Título <h4>
