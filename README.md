@@ -11,3 +11,13 @@
 ##### Título <h5>
 ###### Título <h6>
   Para acessar a minha página do instragran [clique aqui](http://instagram.com/alcides_ods?r=nametag)
+
+* **Camisas**
+* **Short´s**
+* **Bonés** 
+  
+  1. _**Camisa**_
+  
+  2. _**Short**_
+  
+  3. _**Boné**_ 
