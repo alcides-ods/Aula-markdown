@@ -17,11 +17,10 @@
 * **Bonés** 
   
   1. _**Camisa**_
-  ![image](https://user-images.githubusercontent.com/108087723/175364410-522a10ff-f185-4546-8acd-d01ecd0331de.png)
+![image](https://user-images.githubusercontent.com/108087723/175366161-555e119d-8727-469d-9ba4-5c8cfca0f3d0.png)
 
   2. _**Short**_
-  ![image](https://user-images.githubusercontent.com/108087723/175364596-1bcfcaf4-1185-4ae8-8881-49b76d9c3281.png)
+ ![image](https://user-images.githubusercontent.com/108087723/175365715-0f7beae5-73b3-4bc9-aeb3-fe2f67081b8d.png)
 
   3. _**Boné**_ 
-![image](https://user-images.githubusercontent.com/108087723/175365088-ac580d71-eadb-467b-a68a-a98dbca8fd84.png)
-
+![image](https://user-images.githubusercontent.com/108087723/175366312-3348fdf9-0fe9-4666-8728-ef3b6ab0123e.png)
